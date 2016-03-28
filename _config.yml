@@ -1,0 +1,28 @@
+name: dondejose
+favicon: null
+layout_spectrum: 0.8462510420940816
+typography_spectrum: 0.7199442447163165
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7543498177547008
+  lightness: 0.10611383803188801
+  saturation: 0.3639766031410545
+  rhythmicContrast: 0.37034626957029104
+purpose: []
